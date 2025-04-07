@@ -3,6 +3,8 @@ Project: create questions and answers with dictionaries, lists and tuples PART 1
 
 #Exercise - QUESTIONS AND ANSWERS SYSTEM
 
+
+
 questions = [
     {'question': 'What was the first computer invented?', 
      'alternatives' : ['PP3', '4004', 'Eniac', 'GG2'],
